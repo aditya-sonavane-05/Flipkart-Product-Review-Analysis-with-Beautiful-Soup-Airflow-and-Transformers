@@ -2,6 +2,9 @@
 
 This project involves the creation of a data pipeline to extract customer reviews from Flipkart, transform the data, and perform sentiment analysis using Transformers. The pipeline is built using Python, Beautiful Soup for web scraping, Apache Airflow for workflow orchestration, and AWS services for data storage and analysis.
 
+![alt text](https://github.com/aditya-sonavane-05/Flipkart-Product-Review-Analysis-with-Beautiful-Soup-Airflow-and-Transformers/blob/main/Untitled%20design%20(2).png)
+
+
 ## Project Overview
 
 - **Data Extraction**: We use Python and Beautiful Soup to scrape customer reviews from Flipkart's website. The extracted data includes user reviews, ratings, and other relevant information.
